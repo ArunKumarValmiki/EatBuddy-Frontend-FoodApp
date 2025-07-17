@@ -1,12 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🧾 Live Food App (Frontend for Users)
+The user-facing frontend is deployed on Vercel:
 
-Currently, two official plugins are available:
+🔗 [https://eat-buddy-frontend-food-app.vercel.app](https://eat-buddy-frontend-food-app.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### 🛍️ Live Vendor Dashboard (Frontend)
+The vendor dashboard frontend is deployed on Vercel:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [https://eat-buddy-frontend-vendor-dashboard.vercel.app](https://eat-buddy-frontend-vendor-dashboard.vercel.app)
+
+---
+
+### ⚙️ Live Backend API
+The backend is deployed on Render *(may take 1 to 2 minutes to wake up initially)*:
+
+🔗 [https://eatbuddy-backend-vendordashboard.onrender.com](https://eatbuddy-backend-vendordashboard.onrender.com)
