@@ -18,7 +18,7 @@ The backend is deployed on Render *(may take 1 to 2 minutes to wake up initially
 🔗 [https://eatbuddy-backend-vendordashboard.onrender.com](https://eatbuddy-backend-vendordashboard.onrender.com) 
 
 ---
----
+
 # EatBuddy-Frontend-FoodApp
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
