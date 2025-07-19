@@ -103,5 +103,8 @@ npm start
 yarn start
 ```
 
+### Backend Dependency
+**This frontend application relies entirely on the EatBuddy-Backend for all data storage and retrieval. Please ensure the backend server is running and accessible at the URL configured in your .env file. Refer to the backend's README for its setup instructions and API documentation.**
+
 ## Author
 ### ArunKumarValmiki
