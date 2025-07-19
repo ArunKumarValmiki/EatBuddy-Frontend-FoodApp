@@ -16,4 +16,6 @@ The vendor dashboard frontend is deployed on Vercel:
 ### ⚙️ Live Backend API
 The backend is deployed on Render *(may take 1 to 2 minutes to wake up initially)*:
 
-🔗 [https://eatbuddy-backend-vendordashboard.onrender.com](https://eatbuddy-backend-vendordashboard.onrender.com)
+🔗 [https://eatbuddy-backend-vendordashboard.onrender.com](https://eatbuddy-backend-vendordashboard.onrender.com) 
+
+===
